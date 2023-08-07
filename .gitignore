@@ -1,0 +1,4 @@
+# 제외할 파일 및 폴더
+.DS_Store
+node_modules
+dist
